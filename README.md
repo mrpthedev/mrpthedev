@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrpthedev
+- 👋 Hi, I’m @psycho-mrp
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on AI
