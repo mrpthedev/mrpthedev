@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me @psycho_mrp on X
+- 📫 How to reach me @mrpthedev on X
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am self-taught
 
